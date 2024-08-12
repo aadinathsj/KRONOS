@@ -1,2 +1,1 @@
-# KRONOS
-Daily Task Management Application 
+"# KRONOS" 
